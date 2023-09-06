@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build",
-    "watch": "tailwindcss -i ./src/input.css -o ./css/main.css --watch"
+  
   },
   "keywords": [],
   "author": "",
