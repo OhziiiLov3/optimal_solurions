@@ -1,1 +1,1 @@
-# optimal_solurions
+# optimal_solutions
